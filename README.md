@@ -32,7 +32,7 @@ The objective of this lab is to configure and manage the basic administrative se
 ## Lab Topology
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/0a412a08-7cf7-4204-b590-6f14e9a0b5ff" />
 
-In this LAB, PC0 on the left is connected to the switch using a console cable providing direct CLI access for initial configuration. This out-of-band connection allows administrators to configure the switch even before a management IP address is assigned.
+In this LAB, PC0 on the right is connected to the switch using a console cable providing direct CLI access for initial configuration. This out-of-band connection allows administrators to configure the switch even before a management IP address is assigned.
 
 PC1 however is connected to the switch through an Ethernet interface, allowing it to communicate within the LAN. After the switch management interface is configured, PC1 can remotely access the switch using VTY lines, demonstrating in-band management.
 ## Verification
