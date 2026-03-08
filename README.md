@@ -35,4 +35,13 @@ The objective of this lab is to configure and manage the basic administrative se
 In this LAB, PC0 on the right is connected to the switch using a console cable providing direct CLI access for initial configuration. This out-of-band connection allows administrators to configure the switch even before a management IP address is assigned.
 
 PC1 however is connected to the switch through an Ethernet interface, allowing it to communicate within the LAN. After the switch management interface is configured, PC1 can remotely access the switch using VTY lines, demonstrating in-band management.
+
+## Securing user mode privileged mode with simple passwords
+
+## Securing user mode access with local usernames
+
+## Securing user mode access with external authentication servers
+
+## Securing remote access with Secure Shell (SSH)
+
 ## Verification
