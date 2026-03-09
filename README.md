@@ -37,8 +37,20 @@ In this LAB, PC0 on the right is connected to the switch using a console cable p
 PC1 however is connected to the switch through an Ethernet interface, allowing it to communicate within the LAN. After the switch management interface is configured, PC1 can remotely access the switch using VTY lines, demonstrating in-band management.
 
 ## Securing user mode privileged mode with simple passwords
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/a52a8bb7-31c3-4ce8-b8ac-78d2bdb21889" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d3f3292e-9eb9-4004-a735-ef501b347332" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/7e8fa98c-e9fe-4a99-ba78-9024fc7600da" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/facbbd94-5d3c-493f-9ccb-35d8de51d2ea" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/18845435-7ee5-4e3e-be46-db0424572e52" />
 
 ## Securing user mode access with local usernames
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/262b332b-2c38-423d-9964-268c4b24d93f" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/460804ef-7eb0-48fc-bf5f-a9b3a4ad8c86" />
+
 
 ## Securing user mode access with external authentication servers
 
