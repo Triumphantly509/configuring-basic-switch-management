@@ -64,9 +64,15 @@ Enabling Telnet
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/60e5e7fe-714f-49d6-8c16-04866603e2e9" />
 
-Telnet connection via PC1
+Telnet connection via PC1 with simple password
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/f633d2f3-1dea-4de6-a6ca-6a6c35b14684" />
 
+Enabling Telnet with username and password on the Switch via PC0 command prompt
 
-## Verification
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6b02eb29-42d3-4811-9cc8-c834e85f1f21" />
+
+Telnet connection via PC1 with username and password
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/a7286a56-5b18-4773-9c3a-5cb18c7edfdf" />
+
