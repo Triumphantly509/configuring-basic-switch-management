@@ -51,7 +51,7 @@ PC1 however is connected to the switch through an Ethernet interface, allowing i
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/262b332b-2c38-423d-9964-268c4b24d93f" />
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/460804ef-7eb0-48fc-bf5f-a9b3a4ad8c86" />
 
-## Securing remote access with Secure Shell (SSH)
+## Securing remote access with Telnet
 From PC0, we configure an IP address for VLAn1 of the switch
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/e2e0ce57-87e4-468c-9fc2-9a21ddad02f9" />
@@ -75,4 +75,18 @@ Enabling Telnet with username and password on the Switch via PC0 command prompt
 Telnet connection via PC1 with username and password
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/a7286a56-5b18-4773-9c3a-5cb18c7edfdf" />
+
+## Securing remote access with Secure Shell (SSH)
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/01135bf5-e4e8-4b53-8118-6c309749b360" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/54323579-69be-440d-887d-eaa429eda235" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2d91dace-ecf8-4bc7-bf8a-4d1e8d82d497" />
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/c439fe59-948c-48f4-a573-61b5e9c69a10" />
+
+
+
+
 
