@@ -86,6 +86,11 @@ Telnet connection via PC1 with username and password
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/c439fe59-948c-48f4-a573-61b5e9c69a10" />
 
+No ip domain lookup
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/780c740a-bb4f-4cae-b47f-d621869f7e29" />
+
+
 
 
 
