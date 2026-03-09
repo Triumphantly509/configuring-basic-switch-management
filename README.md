@@ -51,9 +51,6 @@ PC1 however is connected to the switch through an Ethernet interface, allowing i
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/262b332b-2c38-423d-9964-268c4b24d93f" />
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/460804ef-7eb0-48fc-bf5f-a9b3a4ad8c86" />
 
-
-## Securing user mode access with external authentication servers
-
 ## Securing remote access with Secure Shell (SSH)
 
 ## Verification
