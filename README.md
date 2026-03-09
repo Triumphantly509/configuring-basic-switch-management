@@ -52,13 +52,21 @@ PC1 however is connected to the switch through an Ethernet interface, allowing i
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/460804ef-7eb0-48fc-bf5f-a9b3a4ad8c86" />
 
 ## Securing remote access with Secure Shell (SSH)
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/e2e0ce57-87e4-468c-9fc2-9a21ddad02f9" />
 From PC0, we configure an IP address for VLAn1 of the switch
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/e5a45165-d9ec-45e8-a65c-fe2561b7b57b" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e2e0ce57-87e4-468c-9fc2-9a21ddad02f9" />
+
 From PC1 we test the connectivity with PING command
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/fc9868aa-eb38-41cf-9074-a69a06979156" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e5a45165-d9ec-45e8-a65c-fe2561b7b57b" />
+
+Enabling Telnet
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/60e5e7fe-714f-49d6-8c16-04866603e2e9" />
+
+Telnet connection via PC1
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f633d2f3-1dea-4de6-a6ca-6a6c35b14684" />
 
 
 ## Verification
