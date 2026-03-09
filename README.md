@@ -52,5 +52,13 @@ PC1 however is connected to the switch through an Ethernet interface, allowing i
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/460804ef-7eb0-48fc-bf5f-a9b3a4ad8c86" />
 
 ## Securing remote access with Secure Shell (SSH)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e2e0ce57-87e4-468c-9fc2-9a21ddad02f9" />
+From PC0, we configure an IP address for VLAn1 of the switch
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e5a45165-d9ec-45e8-a65c-fe2561b7b57b" />
+From PC1 we test the connectivity with PING command
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/fc9868aa-eb38-41cf-9074-a69a06979156" />
+
 
 ## Verification
