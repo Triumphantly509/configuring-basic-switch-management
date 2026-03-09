@@ -30,7 +30,7 @@ The objective of this lab is to configure and manage the basic administrative se
 - show ip interface brief
 
 ## Lab Topology
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/0a412a08-7cf7-4204-b590-6f14e9a0b5ff" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/dd10b6bb-8297-4d20-8c5b-d9d99fdd5b1d" />
 
 In this LAB, PC0 on the right is connected to the switch using a console cable providing direct CLI access for initial configuration. This out-of-band connection allows administrators to configure the switch even before a management IP address is assigned.
 
