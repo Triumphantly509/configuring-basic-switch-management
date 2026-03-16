@@ -80,6 +80,8 @@ Telnet connection via PC1 with username and password
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/01135bf5-e4e8-4b53-8118-6c309749b360" />
 
+<img width="600" alt="ssh" src="https://github.com/user-attachments/assets/7801de01-2d99-42de-96ec-084ac3675438" />
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/54323579-69be-440d-887d-eaa429eda235" />
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/2d91dace-ecf8-4bc7-bf8a-4d1e8d82d497" />
